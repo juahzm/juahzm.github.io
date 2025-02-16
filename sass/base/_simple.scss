@@ -1,0 +1,102 @@
+html {
+    font-family: "Raleway", serif;
+    font-style: normal;
+}
+
+
+body {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 23px;
+    color: #003249;
+
+}
+
+h2 {
+
+    font-family: "Raleway", serif;
+    font-size: 21px;
+    color: #003249;
+}
+
+
+h3 {
+    font-size: 20px;
+
+}
+
+h4 {
+
+    font-size: 17px;
+
+
+}
+
+p {
+    font-size: 17px;
+}
+
+button {
+    font-size: 17px;
+    font-family: "Raleway", serif;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.png {
+    width: 30px;
+    height: auto;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.titres {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+
+
+
+.logo {
+
+    width: 70px;
+    height: auto;
+
+}
+
+/**Rytme*/
+
+main {
+    margin-top: 40px;
+}
+
+
+.titres {
+    margin-top: 200px;
+    margin-bottom: 50px;
+
+}
+
+footer {
+    margin-top: 200px;
+}
